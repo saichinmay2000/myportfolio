@@ -1,0 +1,32 @@
+export const SocialData = [
+    {
+        platform:"Github",
+        link:"www.github.com",
+        icon: require('../../assets/github.png')
+    },
+    {
+        platform:"Medium",
+        link:"www.medium.com",
+        icon:require('../../assets/medium.png')
+    },
+    {
+        platform:"Telegram",
+        link:"www.telegram.com",
+        icon:require('../../assets/telegram.png')
+    },
+    {
+        platform:"Facebook",
+        link:"www.facebook.com",
+        icon:require('../../assets/facebook.png')
+    },
+    {
+        platform:"Snapchat",
+        link:"www.snapchat.com",
+        icon:require('../../assets/snapchat.png')
+    },
+    {
+        platform:"Instagram",
+        link:"www.instagarm.com",
+        icon:require('../../assets/instagram.png')
+    }
+]
