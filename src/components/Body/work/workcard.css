@@ -1,6 +1,6 @@
 .work-card{
     padding: 8px;
-    width: 45;
+    width: 45%;
     margin-top: 16px;
     display: flex;
     justify-content: space-between;
@@ -8,7 +8,7 @@
     flex-direction: row-reverse;
 }
 .work-logo{
-    height: 80px;
+    height: 100px;
 }
 
 .work-info{
@@ -16,13 +16,19 @@
     align-items: flex-start;
     flex-direction: column;
 }
+.work-designation{
+    font-size: 14px;
+}
+
+.work-name{
+    font-weight: 600;
+}
 
 .work-date{
-    color: green;
+    color: grey;
+    font-size: 12px;
 }
 .work-desc{
-    text-align: justify;
-    direction: ltr;
     overflow: hidden;
     text-overflow: ellipsis;
     max-width: 80%;

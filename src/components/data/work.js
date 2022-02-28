@@ -1,18 +1,18 @@
 export const WorkData = [
     {
-        company:"Google",
-        designation:"Software Engineer",
-        dateJoined:"02-02-2021",
-        dateEnd:"04-04-2021",
-        companyLogo:require('../../assets/google.png'),
-        description:"Did a webste using a flutter and nodejs and abc data using rest api and cloud services such as heroku adn aws.Did a webste using a flutter and nodejs and abc data using rest api and cloud services such as heroku adn aws.Did a webste using a flutter and nodejs and abc data using rest api and cloud services such as heroku adn aws."
+        company:"ICAR Indian Institute of Oilseeds Research",
+        designation:"WebApp Developer Intern",
+        dateJoined:"08-2021",
+        dateEnd:"12-2021",
+        companyLogo:require('../../assets/ICAR-IIOR.png'),
+        description:"Built a Project named Oilseeds Pests and Diseases Image Repository System. Backend is built using PHP and MySQL. Deployed on Apache Linux Server."
     },
     {
-        company:"Facebook",
-        designation:"Software",
-        dateJoined:"02-02-1234",
-        dateEnd:"04-04-4311",
-        companyLogo:require('../../assets/google.png'),
-        description:"Did a webste using a flutter and nodejs and abc data using rest api and cloud services such as heroku adn aws.Did a webste using a flutter and nodejs and abc data using rest api and cloud services such as heroku adn aws.Did a webste using a flutter and nodejs and abc data using rest api and cloud services such as heroku adn aws."
+        company:"Sri Sai Software Solutions",
+        designation:"Mobile App Developer Intern",
+        dateJoined:"05-2021",
+        dateEnd:"07-2021",
+        companyLogo:require('../../assets/ssss.png'),
+        description:"Designed and Developed a Mobile Application using Flutter. The CMS is built using PHP and MySQL. Cloud Service used AWS."
     }
 ]
