@@ -1,6 +1,6 @@
 .header{
     display: flex;
-    background-color: beige;
+    /* background-color: beige; */
     border-radius: 40px;
     justify-content: space-between;
     flex: 1;

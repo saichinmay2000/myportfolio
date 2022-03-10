@@ -1,32 +1,32 @@
 export const SocialData = [
     {
         platform:"Github",
-        link:"https://www.github.com",
+        link:"https://github.com/saichinmay2000",
         icon: require('../../assets/github.png')
     },
     {
         platform:"Medium",
-        link:"https://www.medium.com",
+        link:"https://saichinmayt.medium.com",
         icon:require('../../assets/medium.png')
     },
     {
         platform:"Telegram",
-        link:"https://www.telegram.com",
+        link:"https://t.me/chinmay_sai",
         icon:require('../../assets/telegram.png')
     },
     {
         platform:"Facebook",
-        link:"https://www.facebook.com",
+        link:"https://www.facebook.com/saichinmay.tripurari/",
         icon:require('../../assets/facebook.png')
     },
     {
         platform:"Snapchat",
-        link:"https://www.snapchat.com",
+        link:"https://www.snapchat.com/add/chinmay.sai?share_id=38juRxsKfXA&locale=en-IN",
         icon:require('../../assets/snapchat.png')
     },
     {
         platform:"Instagram",
-        link:"https://www.instagarm.com",
+        link:"https://www.instagram.com/chinmay_sai/",
         icon:require('../../assets/instagram.png')
     }
 ]
