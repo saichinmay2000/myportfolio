@@ -4,8 +4,9 @@ import './body.css'
 import About from './about/index.js'
 import Projects from './projects/index.js'
 import Skills from './skills/index.js'
-import Work from './work/index.js'
+import Work from './internships/index.js'
 import Contact from './contact/index.js'
+import Working from "./work copy";
 
 function Body() {
     return(
@@ -21,6 +22,11 @@ function Body() {
 
             <section id="skills">
                 <Skills />
+            </section>
+
+            
+            <section id="work">
+                <Working />
             </section>
 
             <section id="work">

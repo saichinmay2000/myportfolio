@@ -1,18 +1,10 @@
-export const WorkData = [
+export const Work = [
     {
-        company:"ICAR Indian Institute of Oilseeds Research",
-        designation:"WebApp Developer Intern",
-        dateJoined:"08-2021",
-        dateEnd:"12-2021",
-        companyLogo:require('../../assets/ICAR-IIOR.png'),
-        description:"Built a Project named Oilseeds Pests and Diseases Image Repository System. Backend is built using PHP and MySQL. Deployed on Apache Linux Server."
-    },
-    {
-        company:"Sri Sai Software Solutions",
-        designation:"Mobile App Developer Intern",
-        dateJoined:"05-2021",
-        dateEnd:"07-2021",
-        companyLogo:require('../../assets/ssss.png'),
-        description:"Designed and Developed a Mobile Application using Flutter. The CMS is built using PHP and MySQL. Cloud Service used AWS."
+        company:"Carelon Global Solutions",
+        designation:"Associate Software Engineer",
+        dateJoined:"07-2022",
+        dateEnd:"Present",
+        companyLogo:require('../../assets/carelon.jpg'),
+        description:"Development of 1 Project and have done POC for the 2nd project. \nMentored 2 new employees to bring them up to speed on projects, resulting in quicker overall completion milestones. Resolved product issue through consumer testing."
     }
 ]

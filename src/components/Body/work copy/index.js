@@ -1,11 +1,11 @@
 import React from "react";
 import './work.css'
 import Separator from '../../common/separator/index'
-import {WorkData} from '../../data/work'
+import {Work} from '../../data/work'
 import WorkCard from "./work-card";
 
-function Work() {
-    const data = WorkData
+function Working() {
+    const data = Work
     return(
         <div className="work">
            <Separator />
@@ -21,4 +21,4 @@ function Work() {
     )
 }
 
-export default Work
+export default Working
