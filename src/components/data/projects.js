@@ -1,5 +1,14 @@
 export const ProjectData = [
     {
+        id:0,
+        title:"Pega Admin Pro",
+        about:"Developed as a pivotal DevOps solution, our tool empowers administrative teams with comprehensive insights into Pega Application Servers, facilitating seamless monitoring, management, and optimization of server performance and resources.",
+        tags:["React JS", "Node JS", "PEGA"],
+        // demolink:"asdfasdf",
+        // github:"Asdfasdfasdf",
+        // image:"https://imgd.aeplcdn.com/1056x594/n/cw/ec/44549/kushaq-exterior-left-rear-three-quarter-6.jpeg?q=75&wm=1"
+    },
+    {
         id:1,
         title:"Plant Disease Prediction Using Image Classification",
         about:"This application helps the farmers directly know the affected disease or pest for a particular plant. Once the farmer uploads a image on to the database we predict the cure and send him back a response data with information.",
@@ -52,5 +61,14 @@ export const ProjectData = [
         // demolink:"asdfasdf",
         // github:"Asdfasdfasdf",
         // image:"https://imgd.aeplcdn.com/1056x594/n/cw/ec/44549/kushaq-exterior-left-rear-three-quarter-6.jpeg?q=75&wm=1"
-    }
+    },
+    {
+        id:7,
+        title:"Healthcare Claims Automation Process using PEGA",
+        about:"Revolutionizing healthcare claim processing with an innovative smart claims engine, streamlining pre-adjudication processes for enhanced efficiency and accuracy.",
+        tags:["PEGA", "Smart Claims Engine"],
+        // demolink:"asdfasdf",
+        // github:"Asdfasdfasdf",
+        // image:"https://imgd.aeplcdn.com/1056x594/n/cw/ec/44549/kushaq-exterior-left-rear-three-quarter-6.jpeg?q=75&wm=1"
+    },
 ]
